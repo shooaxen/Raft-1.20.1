@@ -1,0 +1,14 @@
+{
+  "icon":"raft_origin.png",
+  "name":"Raft Origin",
+  "authors":[
+    "ShooAxen"
+  ],
+  "desc":"[Beginner] Simple floating raft stylepack for Minecolonies.",
+  "mods":[
+    "structurize",
+    "minecolonies"
+  ],
+  "version":"1",
+  "pack-format":"1"
+}
