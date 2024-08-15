@@ -1,0 +1,14 @@
+{
+  "icon":"raft.png",
+  "name":"Raft",
+  "authors":[
+    "ShooAxen"
+  ],
+  "desc":"[Beginner] Simple floating raft stylepack for Minecolonies.",
+  "mods":[
+    "structurize",
+    "minecolonies"
+  ],
+  "version":"0.1",
+  "pack-format":"1"
+}
